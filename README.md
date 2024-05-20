@@ -12,7 +12,26 @@
 
 [Materiais Complementares - Primeiros Passos com HTML](https://hermes.dio.me/certificates/ILML8Z6N.pdf)
 
-### HTML I: Conceitos basicos
+### HTML I: Conceitos básicos
 [Trabalhando com Formulários em HTML](https://hermes.dio.me/certificates/GTRCYJKQ.pdf)
 
-[]()
+[Estruturando seu HTML  + Formatações](https://hermes.dio.me/certificates/JZIIFCML.pdf)
+
+[Trabalhando com Mídias utilizando HTML](https://hermes.dio.me/certificates/QCAXVRNC.pdf)
+
+[Criando Tabelas com HTML](https://hermes.dio.me/certificates/CBBUOBOC.pdf)
+
+[Criando seu Primeiro Site Completo com HTML](https://hermes.dio.me/certificates/RAQFYI43.pdf)
+
+[Materiais Complementares -Conceitos Básicos](https://hermes.dio.me/certificates/TQWHPYKN.pdf)
+
+### HTML II: Ampliando o conhecimento
+[Entendendo HTML Semântico](https://hermes.dio.me/certificates/LM6PXP1Z.pdf)
+
+[HTML: Recursos Especiais](https://hermes.dio.me/certificates/BLMFRUWU.pdf)
+
+[Recriando o Wikipedia com Layout Moderno](https://hermes.dio.me/certificates/ICVAVXHQ.pdf)
+
+[Materiais Complementares - Ampliando Conhecimento](https://hermes.dio.me/certificates/FMHRMRFX.pdf)
+
+[Avalie a Formação de HTML Web Developer](https://hermes.dio.me/certificates/UKXCEOFG.pdf)
